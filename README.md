@@ -1,4 +1,4 @@
-# Git and Github
+<!-- # Git and Github
 
 You are going to learn how to use git and Github by creating a new repo on GitHub and cloning it to your device. You will be able to push to it as well.
 
@@ -44,4 +44,7 @@ You own this repo because you created it! It's time to clone it!
 - `add` and `commit` the text file again.
 - `push` your local changes to the remote repository.
 - Add an image of your favorite food in your local repository. (You can download any image for this from Google if you need to.)
-- `add`, `commit`, `push` your changes.
+- `add`, `commit`, `push` your changes. -->
+
+
+
